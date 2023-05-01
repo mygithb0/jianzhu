@@ -10,3 +10,10 @@
 -  [建筑软件互导流程方法 文件缩小方法](建筑软件互导流程方法%20文件缩小方法.md)
 - [各软件快捷键 建筑各软件快捷键](各软件快捷键%20建筑各软件快捷键.md)
 
+# 插件下载
+- SU最主要插件 贵插件
+- https://github.com/mygithb0/su-pluguns
+- 建筑软件互导 协同插件
+- https://github.com/mygithb0/jianzhu-xietong-chajian
+- CAD最主要插件 贵插件
+- https://github.com/mygithb0/cad-plugins
